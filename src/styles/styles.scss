@@ -1,0 +1,22 @@
+// @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+// @import url("https://fonts.googleapis.com/css2?family=Anton&display=swap");
+@import "./base/base";
+@import "./components/about";
+@import "./components/contact";
+@import "./components/contributions";
+@import "./components/footer";
+@import "./components/header";
+@import "./components/interestsandskills";
+@import "./components/projects";
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+}

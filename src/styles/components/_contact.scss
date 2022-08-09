@@ -1,0 +1,23 @@
+.contact {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 15rem;
+  width: 85vw;
+}
+
+.contact hr {
+  width: 100%;
+}
+
+@keyframes tilt {
+  0% {
+    transform: skewX(0deg);
+  }
+  50% {
+    transform: skewX(-15deg);
+  }
+  100% {
+    transform: skewX(0deg);
+  }
+}

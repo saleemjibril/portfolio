@@ -1,0 +1,24 @@
+header {
+  /* background-color: #f28100; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 2rem 2rem 2rem;
+  color: #ccc;
+  font-family: Poppins;
+  visibility: hidden;
+}
+
+.header__text {
+  @media (max-width: 619px) {
+    font-size: 1.2rem;
+  }
+}
+
+.header__link {
+  color: #ccc;
+  transition: 0.7s;
+}
+.header__link:hover {
+  color: #f28100;
+}

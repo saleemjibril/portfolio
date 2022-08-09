@@ -1,0 +1,25 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "https://res.cloudinary.com/thewebplug/image/upload/v1659891200/Screenshot_2022-08-07_at_17-51-09_Saleem_Developer_he7stn.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://res.cloudinary.com/thewebplug/image/upload/v1659891200/Screenshot_2022-08-07_at_17-51-09_Saleem_Developer_he7stn.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://res.cloudinary.com/thewebplug/image/upload/v1659891200/Screenshot_2022-08-07_at_17-51-09_Saleem_Developer_he7stn.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

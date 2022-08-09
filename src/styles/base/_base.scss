@@ -1,0 +1,125 @@
+/* Scroll Bar */
+::-webkit-scrollbar {
+  display: none;
+}
+/*  Font  */
+// @font-face {
+//   font-family: Poppins;
+//   src: url(/../public/Poppins/Poppins-Black.ttf);
+//   font-display: block;
+// }
+
+// @font-face {
+//   font-family: PoppinsThin;
+//   src: url(/../public/Poppins/Poppins-Thin.ttf);
+//   font-display: block;
+// }
+
+// @font-face {
+//   font-family: PoppinsMedium;
+//   src: url(/../public/Poppins/Poppins-Medium.ttf);
+//   font-display: block;
+// }
+
+html {
+  font-size: 62.5%;
+  background-color: #000000;
+  color: #f28100;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.2;
+  // display: block;
+
+  @media (max-width: 1024px) {
+    height: auto;
+  }
+  @media (max-width: 760px) {
+    // height: 100%;
+    display: none;
+  }
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  // background: url(/../public/vecteezy_smoke-loop-effect_3678407_879.mp4);
+}
+
+a {
+  // color: #ccc;
+  text-decoration: none;
+}
+
+h1 {
+  margin: 0;
+  font-size: 5rem;
+  text-transform: uppercase;
+}
+h2 {
+  // text-transform: uppercase;
+  font-size: 2.4rem;
+  font-family: Poppins;
+  font-weight: 300;
+}
+h3 {
+  font-size: 1.6rem;
+  font-family: Poppins;
+  color: #ccc;
+  font-weight: 500;
+}
+h4 {
+  font-size: 1.4rem;
+  margin: 0;
+  // text-transform: uppercase;
+}
+hr {
+  margin: 8.5rem 0 8.5rem 0;
+  max-width: 94vw;
+  width: 94vw;
+  // text-align: center;
+}
+.titlesLL {
+  text-transform: uppercase;
+  margin-left: 2.9vw;
+  margin-bottom: 0;
+  transform: translateY(8rem);
+  font-weight: 500;
+  // opacity: 0;
+}
+.link {
+  color: #ccc;
+}
+.link:hover {
+  color: #f28100;
+  transition: 0.5s;
+  cursor: context-menu;
+}
+.link2 {
+  color: #ccc;
+  text-decoration: none;
+}
+.link2:hover {
+  color: #f28100 !important;
+  transition: 0.5s !important;
+}
+.link3 {
+  color: #f28100;
+  text-decoration: none;
+}
+.link3:hover {
+  color: #ccc !important;
+  transition: 0.5s !important;
+}
