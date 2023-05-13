@@ -50,6 +50,13 @@ const Projects = () => {
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
+            <a href="https://deft-daifuku-179240.netlify.app/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>VINEA GLOBAL— VINEA GLOBAL— VINEA GLOBAL— VINEA GLOBAL—</span>
+                <span>VINEA GLOBAL— VINEA GLOBAL— VINEA GLOBAL— VINEA GLOBAL—</span>
+            </a>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
             <a href="http://www.firstklazwrld.com/" className="marquee__inner" target="_blank" rel="noreferrer">
                 <span>SLIDERS STORE — SLIDERS STORE — SLIDERS STORE — SLIDERS STORE —</span>
                 <span>SLIDERS STORE — SLIDERS STORE — SLIDERS STORE — SLIDERS STORE —</span>
