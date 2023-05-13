@@ -8,7 +8,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 const Projects = () => {
 
-    useLayoutEffect (() => {
+    useLayoutEffect(() => {
         var tl = gsap.timeline({
             scrollTrigger: {
                 trigger: ".project__hr",
@@ -16,7 +16,7 @@ const Projects = () => {
                 // markers: true
             }
         });
-    
+
         tl.to(".project__hr", {
             opacity: 1,
             stagger: {
@@ -25,57 +25,71 @@ const Projects = () => {
             }
         })
     })
-    
-    
+
+
 
     return (
         <div className="marquee">
             <h3 className="titlesLL ">Projects</h3>
 
-            <div style={{display: "flex", justifyContent: "center"}}>
-                <hr/>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr />
             </div>
 
-            <a href="http://www.firstklazwrld.com/" className = "marquee__inner"  target="_blank" rel="noreferrer">
+            <a href="https://tinkoko.com/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE —</span>
+                <span>TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE —</span>
+            </a>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
+            <a href="http://agent.tinkoko.com/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>TINKOKO AGENT— TINKOKO AGENT— TINKOKO AGENT— TINKOKO AGENT—</span>
+                <span>TINKOKO AGENT— TINKOKO AGENT— TINKOKO AGENT— TINKOKO AGENT—</span>
+            </a>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
+            <a href="http://www.firstklazwrld.com/" className="marquee__inner" target="_blank" rel="noreferrer">
                 <span>SLIDERS STORE — SLIDERS STORE — SLIDERS STORE — SLIDERS STORE —</span>
                 <span>SLIDERS STORE — SLIDERS STORE — SLIDERS STORE — SLIDERS STORE —</span>
             </a>
 
-            <div style={{display: "flex", justifyContent: "center"}}>
-                <hr className="project__hr"/>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
             </div>
 
-            <a href="https://green-energy-web.netlify.app/" className = "marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
+            <a href="https://green-energy-web.netlify.app/" className="marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
                 <span>GREEN ENERGY — GREEN ENERGY — GREEN ENERGY — GREEN ENERGY —</span>
-                <span>GREEN ENERGY — GREEN ENERGY — GREEN ENERGY — GREEN ENERGY —</span> 
+                <span>GREEN ENERGY — GREEN ENERGY — GREEN ENERGY — GREEN ENERGY —</span>
             </a>
-            
-            <div style={{display: "flex", justifyContent: "center"}}>
-                <hr className="project__hr"/>
+
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
             </div>
-            <a href="https://h-m-t.netlify.app/" className = "marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
+            <a href="https://h-m-t.netlify.app/" className="marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
                 <span>HMT — HMT — HMT — HMT — HMT — HMT — HMT — HMT</span>
-                <span>HMT — HMT — HMT — HMT — HMT — HMT — HMT — HMT</span> 
+                <span>HMT — HMT — HMT — HMT — HMT — HMT — HMT — HMT</span>
             </a>
 
-            <div style={{display: "flex", justifyContent: "center"}}>
-                <hr className="project__hr"/>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
             </div>
-            <a href="https://plg-magazine.netlify.app/" className = "marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
+            <a href="https://plg-magazine.netlify.app/" className="marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
                 <span>PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE —</span>
-                <span>PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE —</span> 
+                <span>PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE —</span>
             </a>
 
-            <div style={{display: "flex", justifyContent: "center"}}>
-                <hr className="project__hr"/>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
             </div>
-            <a href="https://shutter-bug.netlify.app/" className = "marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
+            <a href="https://shutter-bug.netlify.app/" className="marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
                 <span>SHUTTER BUG — SHUTTER BUG — SHUTTER BUG — SHUTTER BUG —</span>
-                <span>SHUTTER BUG — SHUTTER BUG — SHUTTER BUG — SHUTTER BUG —</span> 
+                <span>SHUTTER BUG — SHUTTER BUG — SHUTTER BUG — SHUTTER BUG —</span>
             </a>
 
-            <div style={{display: "flex", justifyContent: "center"}}>
-                <hr className="project__hr"/>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
             </div>
 
         </div>
