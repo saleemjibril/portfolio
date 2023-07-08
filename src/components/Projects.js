@@ -37,8 +37,8 @@ const Projects = () => {
             </div>
 
             <a href="https://tinkoko.com/" className="marquee__inner" target="_blank" rel="noreferrer">
-                <span>TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE —</span>
-                <span>TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE —</span>
+                <span>TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE-</span>
+                <span>TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE-</span>
             </a>
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
@@ -57,15 +57,21 @@ const Projects = () => {
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
-            <a href="http://www.firstklazwrld.com/" className="marquee__inner" target="_blank" rel="noreferrer">
-                <span>SLIDERS STORE — SLIDERS STORE — SLIDERS STORE — SLIDERS STORE —</span>
-                <span>SLIDERS STORE — SLIDERS STORE — SLIDERS STORE — SLIDERS STORE —</span>
+            <a href="https://plug-consulting.netlify.app/" className="marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
+                <span>PLUG CONSULTANCY — PLUG CONSULTANCY — PLUG CONSULTANCY — PLUG CONSULTANCY —</span>
+                <span>PLUG CONSULTANCY — PLUG CONSULTANCY — PLUG CONSULTANCY — PLUG CONSULTANCY —</span>
             </a>
-
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
-
+            <a href="https://plg-magazine.netlify.app/" className="marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
+                <span>PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE —</span>
+                <span>PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE —</span>
+            </a>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
+          
             <a href="https://green-energy-web.netlify.app/" className="marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
                 <span>GREEN ENERGY — GREEN ENERGY — GREEN ENERGY — GREEN ENERGY —</span>
                 <span>GREEN ENERGY — GREEN ENERGY — GREEN ENERGY — GREEN ENERGY —</span>
@@ -79,21 +85,6 @@ const Projects = () => {
                 <span>HMT — HMT — HMT — HMT — HMT — HMT — HMT — HMT</span>
             </a>
 
-            <div style={{ display: "flex", justifyContent: "center" }}>
-                <hr className="project__hr" />
-            </div>
-            <a href="https://plg-magazine.netlify.app/" className="marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
-                <span>PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE —</span>
-                <span>PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE —</span>
-            </a>
-
-            <div style={{ display: "flex", justifyContent: "center" }}>
-                <hr className="project__hr" />
-            </div>
-            <a href="https://shutter-bug.netlify.app/" className="marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
-                <span>SHUTTER BUG — SHUTTER BUG — SHUTTER BUG — SHUTTER BUG —</span>
-                <span>SHUTTER BUG — SHUTTER BUG — SHUTTER BUG — SHUTTER BUG —</span>
-            </a>
 
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
