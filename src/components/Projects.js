@@ -44,8 +44,15 @@ const Projects = () => {
                 <hr className="project__hr" />
             </div>
             <a href="http://agent.tinkoko.com/" className="marquee__inner" target="_blank" rel="noreferrer">
-                <span>TINKOKO AGENT— TINKOKO AGENT— TINKOKO AGENT— TINKOKO AGENT—</span>
-                <span>TINKOKO AGENT— TINKOKO AGENT— TINKOKO AGENT— TINKOKO AGENT—</span>
+                <span>TINKOKO AGENT — TINKOKO AGENT — TINKOKO AGENT — TINKOKO AGENT —</span>
+                <span>TINKOKO AGENT — TINKOKO AGENT — TINKOKO AGENT — TINKOKO AGENT —</span>
+            </a>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
+            <a href="http://digitalnomadvibes.com/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>DIGITAL NOMAD VIBES — DIGITAL NOMAD VIBES — DIGITAL NOMAD VIBES — DIGITAL NOMAD VIBES —</span>
+                <span>DIGITAL NOMAD VIBES — DIGITAL NOMAD VIBES — DIGITAL NOMAD VIBES — DIGITAL NOMAD VIBES —</span>
             </a>
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
@@ -75,14 +82,6 @@ const Projects = () => {
             <a href="https://green-energy-web.netlify.app/" className="marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
                 <span>GREEN ENERGY — GREEN ENERGY — GREEN ENERGY — GREEN ENERGY —</span>
                 <span>GREEN ENERGY — GREEN ENERGY — GREEN ENERGY — GREEN ENERGY —</span>
-            </a>
-
-            <div style={{ display: "flex", justifyContent: "center" }}>
-                <hr className="project__hr" />
-            </div>
-            <a href="https://h-m-t.netlify.app/" className="marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
-                <span>HMT — HMT — HMT — HMT — HMT — HMT — HMT — HMT</span>
-                <span>HMT — HMT — HMT — HMT — HMT — HMT — HMT — HMT</span>
             </a>
 
 
