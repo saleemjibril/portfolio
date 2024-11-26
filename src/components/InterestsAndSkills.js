@@ -56,6 +56,8 @@ const Interests = () => {
                 <hr className="skills" />
                 <h2 className="skills">JavaScript</h2>
                 <hr className="skills" />
+                <h2 className="skills">Typescript</h2>
+                <hr className="skills" />
                 <h2 className="skills">Jest</h2>
                 <hr  className="skills"/>
             </div>

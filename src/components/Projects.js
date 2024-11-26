@@ -36,6 +36,41 @@ const Projects = () => {
                 <hr />
             </div>
 
+            <a href="https://firstklaz.live/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ-</span>
+                <span>FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ-</span>
+            </a>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
+            <a href="https://closecarbon.com/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON-</span>
+                <span>CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON-</span>
+            </a>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
+            <a href="https://surebanker.ai/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER-</span>
+                <span>SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER-</span>
+            </a>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
+            <a href="https://detty-december.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER-</span>
+                <span>DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER-</span>
+            </a>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
+            <a href="https://ccppas.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS-</span>
+                <span>CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS-</span>
+            </a>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
             <a href="https://tinkoko.com/" className="marquee__inner" target="_blank" rel="noreferrer">
                 <span>TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE-</span>
                 <span>TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE-</span>
@@ -61,29 +96,11 @@ const Projects = () => {
                 <span>VINEA GLOBAL— VINEA GLOBAL— VINEA GLOBAL— VINEA GLOBAL—</span>
                 <span>VINEA GLOBAL— VINEA GLOBAL— VINEA GLOBAL— VINEA GLOBAL—</span>
             </a>
-            <div style={{ display: "flex", justifyContent: "center" }}>
-                <hr className="project__hr" />
-            </div>
-            <a href="https://plug-consulting.netlify.app/" className="marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
-                <span>PLUG CONSULTANCY — PLUG CONSULTANCY — PLUG CONSULTANCY — PLUG CONSULTANCY —</span>
-                <span>PLUG CONSULTANCY — PLUG CONSULTANCY — PLUG CONSULTANCY — PLUG CONSULTANCY —</span>
-            </a>
-            <div style={{ display: "flex", justifyContent: "center" }}>
-                <hr className="project__hr" />
-            </div>
-            <a href="https://plg-magazine.netlify.app/" className="marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
-                <span>PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE —</span>
-                <span>PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE — PLG MAGAZINE —</span>
-            </a>
+            
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
           
-            <a href="https://green-energy-web.netlify.app/" className="marquee__inner scrolltrigger" target="_blank" rel="noreferrer">
-                <span>GREEN ENERGY — GREEN ENERGY — GREEN ENERGY — GREEN ENERGY —</span>
-                <span>GREEN ENERGY — GREEN ENERGY — GREEN ENERGY — GREEN ENERGY —</span>
-            </a>
-
 
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
