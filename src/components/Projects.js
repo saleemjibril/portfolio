@@ -71,7 +71,7 @@ const Projects = () => {
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
-            <a href="https://tinkoko.com/" className="marquee__inner" target="_blank" rel="noreferrer">
+            {/* <a href="https://tinkoko.com/" className="marquee__inner" target="_blank" rel="noreferrer">
                 <span>TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE-</span>
                 <span>TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE-</span>
             </a>
@@ -100,7 +100,7 @@ const Projects = () => {
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
-          
+           */}
 
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
