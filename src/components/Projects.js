@@ -31,15 +31,6 @@ const Projects = () => {
     return (
         <div className="marquee">
             <h3 className="titlesLL ">Projects</h3>
-
-            <div style={{ display: "flex", justifyContent: "center" }}>
-                <hr />
-            </div>
-
-            <a href="https://firstklaz.live/" className="marquee__inner" target="_blank" rel="noreferrer">
-                <span>FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ-</span>
-                <span>FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ-</span>
-            </a>
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
@@ -48,11 +39,20 @@ const Projects = () => {
                 <span>CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON-</span>
             </a>
             <div style={{ display: "flex", justifyContent: "center" }}>
-                <hr className="project__hr" />
+                <hr />
             </div>
             <a href="https://surebanker.ai/" className="marquee__inner" target="_blank" rel="noreferrer">
                 <span>SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER-</span>
                 <span>SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER-</span>
+            </a>
+            
+          
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
+            <a href="https://defigamecon.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON-</span>
+                <span>DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON-</span>
             </a>
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
@@ -60,6 +60,13 @@ const Projects = () => {
             <a href="https://detty-december.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
                 <span>DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER-</span>
                 <span>DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER-</span>
+            </a>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
+            <a href="https://firstklaz.live/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ-</span>
+                <span>FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ — FIRSTKLAZ-</span>
             </a>
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />

@@ -46,19 +46,19 @@ const Interests = () => {
                 <h3 className="skills__title">TECHNOLOGIES USED</h3>
                 {/* <h2 className="skills skills__text">I have a unique set of skills where I combine.... </h2> */}
                 <br />
+                <h2 className="skills">NextJS</h2>
+                <hr className="skills" />
                 <h2 className="skills">React</h2>
                 <hr className="skills" />
-                <h2 className="skills">GSAP</h2>
+                <h2 className="skills">Web Animations</h2>
                 <hr className="skills" />
-                <h2 className="skills">HTML5</h2>
+                <h2 className="skills">Smart Contract Integration</h2>
                 <hr className="skills" />
                 <h2 className="skills">CSS3</h2>
                 <hr className="skills" />
                 <h2 className="skills">JavaScript</h2>
                 <hr className="skills" />
-                <h2 className="skills">Typescript</h2>
-                <hr className="skills" />
-                <h2 className="skills">Jest</h2>
+                <h2 className="skills">Software Testing</h2>
                 <hr  className="skills"/>
             </div>
 
@@ -75,13 +75,13 @@ const Interests = () => {
                     </span>
                     </a>
                 </h2>
-                <h2 className="intrests__hoverUp">I am currently exploring animations and SVGs and am excited to see where it takes me.</h2>
+                <h2 className="intrests__hoverUp">I am currently exploring newer web3 and AI technologies. I am excited to see where it takes me.</h2>
                 </div>
                 <br />
                 <br />
                 <div>
                     <h3 className="intrests__hoverUp intrests__title">INTERESTS</h3>
-                    <h2 className="intrests__hoverUp">Frontend development, Animation, Web3, Football, Music. </h2>
+                    <h2 className="intrests__hoverUp">Frontend development, Blockchain technology, AI technology Animation, Web3, Football, Music. </h2>
                 </div>
             </div>
         </div>

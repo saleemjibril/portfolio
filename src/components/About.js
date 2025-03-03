@@ -74,7 +74,7 @@ const About = () => {
                     <h1 className="developer"><span className="frontend">J</span><span className="frontend">I</span><span className="frontend">B</span><span className="frontend">R</span><span className="frontend">I</span><span className="frontend">L</span></h1>
                 </div>
                 <h3 className="about__inner">
-                3 years overall Software Developer experience. Skilled in solving problems with HTML, CSS, JavaScript, React, Typescript, Greensock, NodeJS, MongoDB, Firebase, AWS Lambda, Amazon API Gateway, Amazon DynamoDB, Material Design, Axios, Postman and REST APIs. Targeting Fullstack roles. Currently working on an activity monitoring app using React and NodeJS.
+                3 years of experience in building modern, visually appealing, and user-friendly web2 and web3 solutions across industries (sustainability, fintech, and more). Skilled in HTML, CSS, SCSS, JavaScript, jQuery, Reactjs, Nextjs, Ethers.js, web3, Redux, Jest, Greensock, NodeJS, MongoDB, Firebase, Amazon Web Services, Material Design, Axios, Postman and REST APIs. 
                 <h3 className="scrollDown">
                     <span className="scroll__text">Scroll Down</span>
 
