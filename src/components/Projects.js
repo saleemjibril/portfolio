@@ -39,14 +39,19 @@ const Projects = () => {
                 <span>CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON-</span>
             </a>
             <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
+            <a href="https://detty-december.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER-</span>
+                <span>DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER-</span>
+            </a>
+            <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr />
             </div>
             <a href="https://surebanker.ai/" className="marquee__inner" target="_blank" rel="noreferrer">
                 <span>SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER-</span>
                 <span>SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER — SUREBANKER-</span>
             </a>
-            
-          
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
@@ -54,13 +59,7 @@ const Projects = () => {
                 <span>DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON-</span>
                 <span>DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON-</span>
             </a>
-            <div style={{ display: "flex", justifyContent: "center" }}>
-                <hr className="project__hr" />
-            </div>
-            <a href="https://detty-december.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
-                <span>DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER-</span>
-                <span>DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER-</span>
-            </a>
+            
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
@@ -71,13 +70,25 @@ const Projects = () => {
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
-            <a href="https://ccppas.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
-                <span>CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS-</span>
-                <span>CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS-</span>
+            <a href="https://tweetscraper.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER-</span>
+                <span>TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER — TWEET SCRAPER-</span>
             </a>
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
+            <a href="https://galadio.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO-</span>
+                <span>GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO-</span>
+            </a>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
+            <a href="https://ccppas.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS-</span>
+                <span>CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS-</span>
+            </a>
+          
             {/* <a href="https://tinkoko.com/" className="marquee__inner" target="_blank" rel="noreferrer">
                 <span>TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE-</span>
                 <span>TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE-</span>
