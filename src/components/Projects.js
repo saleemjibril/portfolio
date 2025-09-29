@@ -34,16 +34,16 @@ const Projects = () => {
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
-            <a href="https://closecarbon.com/" className="marquee__inner" target="_blank" rel="noreferrer">
-                <span>CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON-</span>
-                <span>CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON-</span>
+            <a href="https://tractrac.co/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC-</span>
+                <span>TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC — TRACTRAC-</span>
             </a>
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
-            <a href="https://detty-december.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
-                <span>DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER-</span>
-                <span>DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER-</span>
+            <a href="https://closecarbon.com/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON-</span>
+                <span>CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON — CLOSECARBON-</span>
             </a>
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr />
@@ -55,11 +55,17 @@ const Projects = () => {
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
-            <a href="https://defigamecon.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
-                <span>DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON-</span>
-                <span>DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON-</span>
+            <a href="https://www.dettydecember.xyz/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER-</span>
+                <span>DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER — DETTY DECEMBER-</span>
             </a>
-            
+            <div style={{ display: "flex", justifyContent: "center" }}>
+                <hr className="project__hr" />
+            </div>
+            <a href="https://galadio.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO-</span>
+                <span>GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO-</span>
+            </a>
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
@@ -77,17 +83,18 @@ const Projects = () => {
             <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
             </div>
-            <a href="https://galadio.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
-                <span>GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO-</span>
-                <span>GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO — GALADIO-</span>
+            <a href="https://defigamecon.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
+                <span>DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON-</span>
+                <span>DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON — DEFIGAMECON-</span>
             </a>
-            <div style={{ display: "flex", justifyContent: "center" }}>
+            {/* <div style={{ display: "flex", justifyContent: "center" }}>
                 <hr className="project__hr" />
-            </div>
-            <a href="https://ccppas.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
+            </div> */}
+            
+            {/* <a href="https://ccppas.vercel.app/" className="marquee__inner" target="_blank" rel="noreferrer">
                 <span>CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS-</span>
                 <span>CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS — CCPPAS-</span>
-            </a>
+            </a> */}
           
             {/* <a href="https://tinkoko.com/" className="marquee__inner" target="_blank" rel="noreferrer">
                 <span>TINKOKO MARKETPLACE — TINKOKO MARKETPLACE — TINKOKO MARKETPLACE-</span>

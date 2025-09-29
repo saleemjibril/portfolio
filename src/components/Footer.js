@@ -8,7 +8,7 @@ const Footer = () => {
                 </div>
                 
                 <div className="social__links">
-                        <a className="social__links__inner" href="https://www.github.com/thewebplug/" target="_blank" rel="noreferrer">
+                        <a className="social__links__inner" href="https://www.github.com/saleemjibril/" target="_blank" rel="noreferrer">
                             <h4 className="social__text">Github</h4>
                             <img className="social-image" src="/img-arrow.png" width="15" height="15" alt="twitter logo" />
                         </a>

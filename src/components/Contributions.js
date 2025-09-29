@@ -43,7 +43,7 @@ const Contributions = () => {
         <a href="https://closecarbon.com/" target="_blank" rel="noreferrer">
           <span className="link">an emission tracking application</span>
         </a>{" "}
-        to <a href="https://surebanker.ai/"><span className="link">a fintech banking solution</span></a>
+        to <a href="https://surebanker.ai/" target="_blank" rel="noreferrer"><span className="link">a fintech banking solution</span></a>
       </h2>
     </div>
   );
